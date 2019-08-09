@@ -1,0 +1,54 @@
+/* add your CSS here */
+
+body {
+    color: #fff;
+    font-family: 'Pangolin', cursive;
+    text-align: justify;
+}
+
+.container {
+    width: 300px;
+    padding: 10px;
+    border: 1px solid gray;
+    background: url("https://img00.deviantart.net/601f/i/2014/256/0/3/forest_on_a_foggy_morning_by_danielgliese-d7yznm6.jpg") no-repeat;
+    -webkit-box-shadow: 10px 2px 20px 0px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: 10px 2px 20px 0px rgba(0, 0, 0, 0.75);
+    box-shadow: 10px 2px 20px 0px rgba(0, 0, 0, 0.75);
+}
+
+.info {
+    margin-top: 5px;
+    padding: 8px;
+    border: 1px solid gray;
+    background-color: rgba(0, 0, 0, 0.8);
+}
+
+.first-p {
+    margin-top: 0;
+}
+
+.second-p {
+    margin-bottom: 0;
+}
+
+.kangaroo-img {
+    width: 300px;
+    margin-top: 5px;
+}
+
+ul {
+    list-style: none;
+    padding-left: 0;
+}
+
+span {
+    font-weight: bold;
+    color: green;
+}
+
+h3 {
+    padding: 20px;
+    text-align: center;
+    margin: 0;
+    background-color: rgba(0, 0, 0, 0.7);
+}
